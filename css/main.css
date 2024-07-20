@@ -25,6 +25,10 @@
 .timeline-card-info:before {
   border-color: var(--bs-info); }
 
+.text-justify {
+  text-align: justify;
+}
+
 .timeline-card-secondary:before {
   border-color: var(--bs-secondary); }
 
